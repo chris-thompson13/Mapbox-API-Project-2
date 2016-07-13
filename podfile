@@ -1,0 +1,13 @@
+target "maps2" do
+
+
+        pod 'Mapbox-iOS-SDK', '~> 3.2.3'
+
+
+
+
+		
+
+     use_frameworks!
+
+end

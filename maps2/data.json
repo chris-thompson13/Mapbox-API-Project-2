@@ -1,0 +1,137 @@
+{
+    "locations": [
+              {
+              "name": "John",
+                  "subTitle": "Awesome view here!",
+
+                  
+              "latitude": 42.957342,
+                "longitude": -85.667301,
+                  "activity": "hunting",
+              },
+              {
+              "name": "Mark",
+                  "subTitle": "Trying not to get lost out here lol",
+
+                  
+              "latitude": 42.942767,
+                  "longitude": -85.727039,
+                  "activity": "fishing",
+
+
+              },
+              {
+              "name": "Sarah",
+                  "subTitle": "Making our way to the lake :)",
+
+              "latitude": 42.937992,
+                  "longitude": -85.735279,
+                  "activity": "hunting",
+
+
+              },
+                  {
+                  "name": "Jeff",
+                  "subTitle": "About to take a ride on the boat!",
+                  
+                  
+                  "latitude": 42.938181,
+                  "longitude": -85.747552,
+                  "activity": "hunting",
+
+                  
+                  },
+                  {
+                  "name": "Nick",
+                  "subTitle": "Perfect day!",
+                  
+                  
+                  "latitude": 42.941951,
+                  "longitude": -85.740343,
+                  "activity": "hunting",
+
+                  
+                  },
+                  {
+                  "name": "Steve",
+                  "subTitle": "Successful day of fishing!",
+                  
+                  
+                  "latitude": 42.942076,
+                  "longitude": -85.735794,
+                  "activity": "fishing",
+
+                  
+                  },
+                  {
+                  "name": "Jack",
+                  "subTitle": "If I had a dollar for every deer I saw out here today, wow!",
+                  
+                  
+                  "latitude": 42.941767,
+                  "longitude": -85.727939,
+                  "activity": "fishing",
+
+                  
+                  },
+                  {
+                  "name": "Mark",
+                  "subTitle": "Hello back",
+                  
+                  
+                  "latitude": 42.934428,
+                  "longitude": -85.753379,
+                  "activity": "fishing",
+
+                  
+                  },
+                  {
+                  "name": "Dan",
+                  "subTitle": "Hello world",
+                  
+                  
+                  "latitude": 42.945188,
+                  "longitude": -85.745504,
+                  "activity": "hunting",
+
+                  
+                  },
+                  {
+                  "name": "Joe",
+                  "subTitle": "It's a party out here by the water",
+                  
+                  
+                  "latitude": 42.943820,
+                  "longitude": -85.743227,
+                  "activity": "fishing",
+
+                  
+                  },
+                  {
+                  "name": "Bob",
+                  "subTitle": "Another great catch",
+                  
+                  
+                  "latitude": 42.943720,
+                  "longitude": -85.746227,
+                  "activity": "fishing",
+                  
+                  
+                  },
+                  {
+                  "name": "Trevor",
+                  "subTitle": "New day, new gear!",
+                  
+                  
+                  "latitude": 42.943620,
+                  "longitude": -85.745227,
+                  "activity": "fishing",
+                  
+                  
+                  },
+                  
+            
+              ],
+    "dataTitle": "JSON Tutorial!",
+    "swiftVersion": 2.1
+}

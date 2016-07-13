@@ -16,6 +16,10 @@
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
+	<key>MGLMapboxAccessToken</key>
+	<string>pk.eyJ1IjoiY3Rob21wczYiLCJhIjoiY2lxZ3cxZzdlMDQ5YWZvbmVkNmN1YjlvcyJ9.hxQVOKbxRi7LDweIuDPCTQ</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Test</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>

@@ -5,4 +5,4 @@ The search field has no functionality and is only there as a UI display object.
 
 If you tap on the white button in the bottom left side of the screen it will take you to your current location. If you tap it again, the map will return to it's original coordinates.
 
-(https://cloud.githubusercontent.com/assets/14323629/16792577/96232f90-4897-11e6-957a-1910c56c482d.png)
+![simulator screen shot jul 13 2016 12 47 30 am](https://cloud.githubusercontent.com/assets/14323629/16792590/b8276a5c-4897-11e6-9028-70667466a8c1.png)

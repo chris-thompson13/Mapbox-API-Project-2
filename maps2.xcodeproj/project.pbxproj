@@ -25,6 +25,7 @@
 		D365D8F41D3463A0008F6141 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = D365D8F31D3463A0008F6141 /* data.json */; };
 		D365D8F51D3463A0008F6141 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = D365D8F31D3463A0008F6141 /* data.json */; };
 		D365D8F61D3463A0008F6141 /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = D365D8F31D3463A0008F6141 /* data.json */; };
+		D3772B621D395BED00C2C25F /* test.gpx in Resources */ = {isa = PBXBuildFile; fileRef = D3772B611D395BED00C2C25F /* test.gpx */; };
 		D3F173771D34991F001D14AB /* icon-location-searching.png in Resources */ = {isa = PBXBuildFile; fileRef = D3F173761D34991F001D14AB /* icon-location-searching.png */; };
 		D3F173791D349937001D14AB /* icon-location-searching@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = D3F173781D349937001D14AB /* icon-location-searching@3x.png */; };
 		D3F1737B1D349A08001D14AB /* DOFavoriteButton in Resources */ = {isa = PBXBuildFile; fileRef = D3F1737A1D349A08001D14AB /* DOFavoriteButton */; };
@@ -152,6 +153,7 @@
 		D365D8E91D3318CF008F6141 /* Mapbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Mapbox.framework; sourceTree = "<group>"; };
 		D365D8EF1D3319C2008F6141 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		D365D8F31D3463A0008F6141 /* data.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		D3772B611D395BED00C2C25F /* test.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = test.gpx; sourceTree = "<group>"; };
 		D3F173761D34991F001D14AB /* icon-location-searching.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-location-searching.png"; sourceTree = "<group>"; };
 		D3F173781D349937001D14AB /* icon-location-searching@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-location-searching@3x.png"; sourceTree = "<group>"; };
 		D3F1737A1D349A08001D14AB /* DOFavoriteButton */ = {isa = PBXFileReference; lastKnownFileType = folder; path = DOFavoriteButton; sourceTree = "<group>"; };
@@ -233,6 +235,7 @@
 		D365D8A41D330E7E008F6141 = {
 			isa = PBXGroup;
 			children = (
+				D3772B611D395BED00C2C25F /* test.gpx */,
 				D365D8E41D3313E0008F6141 /* Mapbox.framework */,
 				D365D8F11D343B7B008F6141 /* Resources */,
 				D365D8AF1D330E7E008F6141 /* maps2 */,
@@ -448,6 +451,7 @@
 				D365D8BB1D330E7E008F6141 /* LaunchScreen.storyboard in Resources */,
 				D3F1738E1D35AEF9001D14AB /* pin-poi-hunting@2x.png in Resources */,
 				D3F1739A1D35CEFB001D14AB /* Plus Math-50.png in Resources */,
+				D3772B621D395BED00C2C25F /* test.gpx in Resources */,
 				D3F1738A1D35AC91001D14AB /* pin-custom-fishing@2x.png in Resources */,
 				D3F173CE1D35E807001D14AB /* Creek Filled-50.png in Resources */,
 				D3F173C61D35E7C5001D14AB /* Earth Element-50.png in Resources */,

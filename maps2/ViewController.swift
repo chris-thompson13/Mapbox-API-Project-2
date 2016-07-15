@@ -45,7 +45,6 @@ class ViewController: UIViewController, UISearchBarDelegate {
     
     @IBAction func seeUserLocation(sender: AnyObject) {
         
-        if userLocationView == false {
         
         
         if( CLLocationManager.authorizationStatus() == CLAuthorizationStatus.AuthorizedWhenInUse ||
@@ -61,24 +60,7 @@ class ViewController: UIViewController, UISearchBarDelegate {
             userLocationView = true
             
             }
-        }
-        
-            else {
             
-            
-                    maps.setCenterCoordinate(CLLocationCoordinate2D(latitude: 42.937992,
-                        longitude: -85.735279),
-                                     zoomLevel: 13, animated: true)
-            
-            
-                    userLocationView = false
-
-            
-            
-        
-        }
-
-        
         
     }
 
